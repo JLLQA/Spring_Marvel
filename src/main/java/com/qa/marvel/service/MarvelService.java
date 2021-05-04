@@ -6,9 +6,6 @@ import com.qa.marvel.domain.Marvel;
 
 public interface MarvelService {
 	
-	// template 
-	// abstract methods - no method body!
-	
 	// CRUD OPERATIONS
 	
 	Marvel create(Marvel m); 
