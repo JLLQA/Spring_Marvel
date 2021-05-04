@@ -16,6 +16,9 @@ public class Marvel {
 		this.superSoldier = superSoldier;
 	}
 	
+	public Marvel() {
+	}
+	
 	public Long getId() {
 		return id;
 	}
